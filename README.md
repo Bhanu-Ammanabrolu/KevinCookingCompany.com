@@ -1,2 +1,2 @@
 # KevinCookingCompany.com
-simple HTML webpage I practiced in you tube on GIT and GITHUB.
+simple HTML webpage I practiced in youtube on GIT and GITHUB.
